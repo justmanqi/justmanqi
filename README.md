@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justmanqi
-- 🖥️ Fimiliar with Swift 
+- 🖥️ Familiar with Swift 
 - 🌱 I’m currently learning python
 - ✨ Just learning :)
 - 📫 How to reach me just.manqi@gmail.com
